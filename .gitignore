@@ -10,3 +10,6 @@ nb-configuration.xml
 /nbproject/project.properties
 /nbproject/genfiles.properties
 /nbproject/build-impl.xml
+
+.idea
+*.iml
